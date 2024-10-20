@@ -8,6 +8,29 @@
 ![Multer](https://img.shields.io/badge/Multer-1.4.5-blue)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-5.1.1-orange)
 
+---
+
 ## Overview
-This repository contains two Node.js applications: a CRUD operation app and a user authentication system. Both applications use technologies like MySQL, Express, Passport.js, and Multer for various web development tasks.
+
+This repository contains two Node.js applications:
+- **Node.js CRUD Operation App**: Implements basic Create, Read, Update, and Delete (CRUD) functionalities.
+- **User Authentication App**: Provides user registration, login, and file upload functionality.
+
+Both applications use **MySQL**, **Express**, **Passport.js**, and **Multer** for various web development tasks, such as database management, user authentication, and file handling.
+
+---
+
+## Technologies Used
+
+- **Node.js**: Backend runtime environment.
+- **Express**: Web application framework.
+- **MySQL**: Database management system.
+- **EJS**: Templating engine for dynamic HTML rendering.
+- **Passport.js**: Authentication middleware.
+- **Multer**: File upload handling middleware.
+- **Bcrypt**: Password hashing library.
+
+---
+
+
 
